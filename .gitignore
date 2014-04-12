@@ -1,0 +1,5 @@
+.*.sw[p-z]
+.DS_Store
+
+*.o
+a.out
