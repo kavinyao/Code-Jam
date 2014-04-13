@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {
-    int n;
+    int T;
     cout.precision(7);
-    cin >> n;
+    cin >> T;
 
-    for (int i = 0;i < n;++i) {
+    for (int i = 0;i < T;++i) {
         cout << "Case #" << (i+1) << ": ";
         cout << fixed << 0.0;
         cout << endl;
