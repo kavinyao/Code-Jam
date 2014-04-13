@@ -1,6 +1,14 @@
+# general
 .*.sw[p-z]
 .DS_Store
 
+# python
+*.pyc
+*.pyo
+
+# c/c++
 *.o
+
+# input/output files
 *.out
 *.in
